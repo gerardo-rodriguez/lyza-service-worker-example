@@ -1,0 +1,21 @@
+{
+  "name": "lyza-service-worker-example",
+  "version": "1.0.0",
+  "description": "Following Lyza's Service Worker example from Smashing.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.5.1",
+    "babel-loader": "^6.2.2",
+    "webpack": "^1.12.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "service",
+    "worker"
+  ],
+  "author": "Gerardo Rodriguez",
+  "license": "ISC"
+}
